@@ -23,4 +23,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: myw/myrepo:latest
+          tags: myw35/myrepo:latest
